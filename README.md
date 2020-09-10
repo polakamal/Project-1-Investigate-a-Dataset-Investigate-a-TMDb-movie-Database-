@@ -1,4 +1,4 @@
-# Project-1-Investigate-a-Dataset-Investigate-a-TMDb-movie-Database-
+# Project-1-Investigate-a-TMDb-movie-Database-
 This project used TMDb movie Dataset that contains about 10,000 movies collected from TMDb. Each movie includeed information on its user rating, revenue, cast, genres,original_title,budget,etc.we wanted to investigate the dataset and learn the relationship between the features to help achive the maximum profit.  <br />
 
 # The project follow the steps 
